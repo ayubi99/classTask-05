@@ -9,8 +9,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #007bff;
-    font-family: 'Arial', sans-serif;
+    background-color: blue;
+    
 }
 
 .container {
@@ -34,4 +34,23 @@ body {
     border-radius: 5px;
     width: 200px;
 }
+
+.calculator button {
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.result {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+
+
 
