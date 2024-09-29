@@ -51,6 +51,16 @@ body {
     justify-content: center;
 }
 
+.box {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+    
+}
+
 
 
 
